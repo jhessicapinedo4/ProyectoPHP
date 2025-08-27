@@ -2,7 +2,7 @@
 
 	function conexion(){
 
-	$host = "host=@dpg-d2nmba8gjchc73dkdkh0-a.oregon-postgres.render.com";
+	$host = "host=dpg-d2nmba8gjchc73dkdkh0-a.oregon-postgres.render.com";
 	$port = "port=5432";
 	$dbname = "dbname=examplenubedb";
 	$user = "user=examplenubedb_user";
